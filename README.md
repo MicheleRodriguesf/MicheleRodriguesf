@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning **Cypress, Robot-Framework and Java**
 
-- 👯 I’m looking to collaborate on [Lacrei Saúde](https://lacreisaude.com.br/)
-
 - 📫 How to reach me **https://www.linkedin.com/in/michele-rodriguesf/**
 
 <h3 align="left">Connect with me:</h3>
